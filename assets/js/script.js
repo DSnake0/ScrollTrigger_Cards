@@ -14,8 +14,7 @@ const newCard = document.querySelectorAll(".card").forEach(newCard => {
             trigger: newCard,
             start: "top 15%",
             end: "bottom 15%",
-            scrub: 1,
-            markers: true
+            scrub: 1
         }
     })
 })
