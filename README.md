@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/DSnake0/ScrollTrigger_Cards.git
+   git clone https://github.com/ExploitEngineer/ScrollTrigger_Cards.git
    cd ScrollTrigger_Cards
 Install Dependencies Ensure you have Node.js and npm installed. Then run:
 
